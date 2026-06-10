@@ -82,8 +82,9 @@ Then simply open `index.html` in your browser — no build tools or installation
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub:https://github.com/Arsh-khokhar45
+- LinkedIn:https://www.linkedin.com/in/arsh-khokhar-792242398/
+
 
 ---
 
