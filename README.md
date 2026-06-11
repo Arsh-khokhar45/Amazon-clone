@@ -3,16 +3,6 @@
 A pixel-perfect, fully responsive clone of Amazon's website built with pure HTML, CSS, and JavaScript — no frameworks, no libraries.
 
 ![Amazon Clone](https://img.shields.io/badge/Status-Complete-brightgreen) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
----
-
-## 📸 Preview
-
-> _Add your screenshot here_
-> `![Screenshot](./assets/screenshot.png)`
-
----
-
 ## ✨ Features
 
 - ✅ Fully responsive design (Desktop, Tablet, Mobile)
@@ -56,13 +46,13 @@ amazon-clone/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/amazon-clone.git
+git clone https://github.com/Arsh-khokhar45
 ```
 
 ### Open the project
 
 ```bash
-cd amazon-clone
+open amazon-clone
 ```
 
 Then simply open `index.html` in your browser — no build tools or installations required!
