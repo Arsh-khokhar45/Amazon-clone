@@ -67,18 +67,7 @@ Then simply open `index.html` in your browser — no build tools or installation
 | Tablet | 768px – 1199px | ✅ Supported |
 | Mobile | < 768px | ✅ Supported |
 
----
-
-## 🙋‍♂️ Author
-
-**Your Name**
-- GitHub:https://github.com/Arsh-khokhar45
-- LinkedIn:https://www.linkedin.com/in/arsh-khokhar-792242398/
-
-
----
-
-## 📄 License
+ ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
@@ -90,4 +79,13 @@ Agar aapko ye project pasand aaya toh ek **⭐ Star** zaroor do — bahut motiva
 
 ---
 
+---
+
+## 🙋‍♂️ Author
+
+**Your Name**
+- GitHub:https://github.com/Arsh-khokhar45
+- LinkedIn:https://www.linkedin.com/in/arsh-khokhar-792242398/
+
+---
 > **Disclaimer:** This project is made for educational purposes only. All Amazon trademarks and logos belong to Amazon.com, Inc.
