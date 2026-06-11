@@ -78,9 +78,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Agar aapko ye project pasand aaya toh ek **⭐ Star** zaroor do — bahut motivation milta hai!
 
 ---
-
----
-
 ## 🙋‍♂️ Author
 
 **Your Name**
